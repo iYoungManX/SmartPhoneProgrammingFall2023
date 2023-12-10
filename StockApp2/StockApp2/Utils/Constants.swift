@@ -9,4 +9,5 @@ import Foundation
 
 let apiKey = "48d4dc7037059a704102ea318efa96d6"
 let baseURL = "https://financialmodelingprep.com/api/v3/"
+let shortQuoteURL = "https://financialmodelingprep.com/api/v3/quote-short"
 
